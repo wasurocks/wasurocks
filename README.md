@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Wasu
 
-- 🔭 I'm currently interning in the fullstack team @ Agoda
+- 🔭 I'm currently studying Information and Communication Engineering
 - 🔎 I'm interested in all sorts of technology and learning new things daily
 
 - ✉️ Feel free to contact me via my email wasu.sonthichai@gmail.com
